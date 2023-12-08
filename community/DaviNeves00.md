@@ -22,9 +22,4 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR. Futu
 
 </div>
 
-<div style="width: max-content;">
-
-  
-</div>
-
 
