@@ -4,7 +4,7 @@
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR. Futuro dev com um pésinho em Desing!
 
 
-#### 👨‍💻 Skills que estou Upando atualmente 🛠
+#### 👨‍💻 Skills que estou Upando de nível atualmente 🛠
 
 <div style="width: max-content;">
   
